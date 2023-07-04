@@ -33,7 +33,7 @@ This repository contains the following files:
 
 To use the code and reproduce the results of this assignment, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/NoamAtias/Machine_Learning_Image_Classification.git`
 2. Install the required packages: `pip install -r requirements.txt`
 3. Run the `main.py` script to train and evaluate the CNN model: `python main.py`
 
